@@ -1,7 +1,7 @@
 # Sobre mi
 
-![](../images/perezoso.jpg)
+![](../images/fablabOficina.png)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+El Fab Lab ESAN es un Centro de Innovación Tecnológica autorizado por CONCYTEC especializado en modelado 3D y fabricación digital.   Estamos integrados en la Red Global de Laboratorios Fab Lab (Fab Lab NetWork) creada por el prestigioso Centro de Bits y Átomos del Instituto Tecnológico de Massachusetts (MIT) y actualmente coordinada por The Fab Foundation.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit **[my website](https://community.emergentfutures.io/courses/5566525/content)**
+**[Enlace](https://fablab.esan.edu.pe/)**
